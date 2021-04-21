@@ -1,6 +1,8 @@
 # answertainty
 Simple Arduino Nano based pseudorandom Eurorack module
 
+![answertainty](https://preview.redd.it/aqre0pfltdu61.jpg?width=320&crop=smart&auto=webp&s=d76e3860a085b5bc191a1fe7cdb6173babbb287c)
+
 Answertainty creates pseudorandom signals. I must warn anyone attempting this that I have not tested these exact PCBs, only an earlier prototype, that I then made minor modifications to for this version. I am quite confident that they will work, and feel free to send me a message if you decide to try this out.
 
 
