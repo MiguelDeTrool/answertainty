@@ -1,14 +1,14 @@
-Designator	Package	Quantity	Designation
-C7,C6	C_Disc_D3.8mm_W2.6mm_P2.50mm	2	100n
-R7,R6,R5	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	3	10K
-J4,J1,J3,J2	PJ302M	4	AudioJack2_SwitchT
-A1	Arduino_Nano	1	Arduino_Nano_v3.x
-C4,C5,C3,C2,C1	CP_Radial_D6.3mm_P2.50mm	5	0,0001
-R15	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	1	2K
-R14	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	1	1K
-R13,R12,R11	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	3	1000
-R10,R9,R8	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	3	5K
-R4,R3,R2,R1	R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal	4	330
-J5	PinHeader_2x05_P2.54mm_Vertical	1	IDC 02x05 connector
-RV1	Potentiometer_Alps_RK163_Single_Horizontal	1	10K
-U1	DIP-14_W7.62mm_Socket_LongPads	1	TL074
+Designator,Package,Quantity,Designation
+"C7,C6",C_Disc_D3.8mm_W2.6mm_P2.50mm,2,100n
+"R7,R6,R5",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,3,10K
+"J4,J1,J3,J2",PJ302M,4,AudioJack2_SwitchT
+A1,Arduino_Nano,1,Arduino_Nano_v3.x
+"C4,C5,C3,C2,C1",CP_Radial_D6.3mm_P2.50mm,5,"0,0001"
+R15,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,2K
+R14,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,1K
+"R13,R12,R11",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,3,1000
+"R10,R9,R8",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,3,5K
+"R4,R3,R2,R1",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,4,330
+J5,PinHeader_2x05_P2.54mm_Vertical,1,"IDC 02x05 connector"
+RV1,Potentiometer_Alps_RK163_Single_Horizontal,1,10K
+U1,DIP-14_W7.62mm_Socket_LongPads,1,TL074
